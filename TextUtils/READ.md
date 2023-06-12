@@ -10,6 +10,11 @@ This is a website that is made for the purpose of analyzing the text.
   <li>Numbers Remover</il>
 </ul>
 
+<h2>Tech Stack Used</h2>
+<ul>
+  <li>Python3</il>
+  <li>Django</il>
+</ul>
 
 
 
