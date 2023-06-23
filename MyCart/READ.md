@@ -3,6 +3,6 @@
 
 <h2>Tech Stack Used</h2>
 <ul>
-  <li>Python3</il>
+  <li>Python</il>
   <li>Django</il>
 </ul>
